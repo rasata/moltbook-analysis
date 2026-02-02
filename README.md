@@ -284,6 +284,7 @@ Configuration TLS solide. Points d'amelioration : ECDSA au lieu de RSA, HSTS pre
 
 | Fichier | Description |
 |---------|-------------|
+| `CLAUDE.md` | Directives projet -- mission, structure, guide de contribution |
 | `README.md` | Ce document -- synthese publique de l'analyse (francais) |
 | `README.en.md` | Synthese publique de l'analyse (anglais) |
 | `QUICKSTART.md` | Guide de demarrage rapide Moltbook (francais) |
