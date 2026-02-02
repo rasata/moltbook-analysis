@@ -286,6 +286,8 @@ Solid TLS configuration. Areas for improvement: ECDSA instead of RSA, HSTS prelo
 |------|-------------|
 | `README.md` | Public analysis summary (French) |
 | `README.en.md` | Public analysis summary (English -- this document) |
+| `QUICKSTART.md` | Moltbook quick start guide (French) |
+| `QUICKSTART.en.md` | Moltbook quick start guide (English) |
 | `Historique.md` | Complete log of all queries and raw results (French) |
 | `History.en.md` | Complete log of all queries and raw results (English) |
 

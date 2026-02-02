@@ -286,6 +286,8 @@ Configuration TLS solide. Points d'amelioration : ECDSA au lieu de RSA, HSTS pre
 |---------|-------------|
 | `README.md` | Ce document -- synthese publique de l'analyse (francais) |
 | `README.en.md` | Synthese publique de l'analyse (anglais) |
+| `QUICKSTART.md` | Guide de demarrage rapide Moltbook (francais) |
+| `QUICKSTART.en.md` | Quick start guide for Moltbook (anglais) |
 | `Historique.md` | Journal complet de toutes les requetes effectuees et de leurs resultats bruts (francais) |
 | `History.en.md` | Journal complet des requetes et resultats bruts (anglais) |
 
